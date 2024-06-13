@@ -1,6 +1,5 @@
 # Teachable-Machine
 Demo for AI model
-javascript
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
